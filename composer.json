@@ -1,0 +1,19 @@
+{
+    "name": "anastasiia/calculator",
+    "description": "use this lib for math operations",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anastasiia\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anastasiia Holubnycha",
+            "email": "holubanastasiia@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
